@@ -7,3 +7,7 @@ My server just don't care
 
 ## Usage
 `node server.js`
+
+## License
+Do What the Fuck You Want to Public License
+
